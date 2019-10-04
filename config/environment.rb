@@ -14,3 +14,4 @@ ActiveRecord::Base.establish_connection(
 )
 
 require_all 'lib'
+

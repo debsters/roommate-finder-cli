@@ -1,2 +1,3 @@
-# class Room < ActiveRecord::Base
-# end
+class Room < ActiveRecord::Base
+end
+
